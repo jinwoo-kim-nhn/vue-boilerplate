@@ -1,23 +1,26 @@
-# ES6 Boilerplate
+# VUE Boilerplate
 
 ## Features
+#### Vuejs
+* [vuex](https://github.com/vuejs/vuex)
 
 #### Webpack
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
 * [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
 * [optimize-css-assets-webpack-plugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
+* [vue-loader](https://github.com/vuejs/vue-loader)
 
 #### Babel
 * [@babel/polyfill](https://babeljs.io/docs/en/babel-polyfill)
 * [@babel/preset-env](https://github.com/babel/babel/tree/master/packages/babel-preset-env)
 * [@babel/plugin-proposal-object-rest-spread](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-object-rest-spread)
 
-
 #### ESLint
 * [babel-eslint](https://github.com/babel/babel-eslint)
 * [eslint-config-tui](https://github.com/nhnent/tui.eslint.config)
 * [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 * [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
+* [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
 
 #### Prettier
 

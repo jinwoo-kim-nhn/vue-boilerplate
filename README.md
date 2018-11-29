@@ -29,6 +29,7 @@
 #### Prettier
 * [prettier](https://prettier.io/)
 
+## Browser support
 
 #### Internet Explorer 9+
 

@@ -37,7 +37,7 @@
 
 ## Getting started
 
-1. `git clone https://github.com/jinwoo-kim-nhn/es6-boilerplate.git`
+1. `git clone https://github.com/jinwoo-kim-nhn/vue-boilerplate.git`
 2. Inside repo directory run `npm install`
 3. Start the dev serve `npm run dev`
 4. Open http://localhost:8080

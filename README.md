@@ -40,7 +40,7 @@
 
 1. Gets the git project. 
 ```js
-  git clone https://github.com/jinwoo-kim-nhn/es6-boilerplate.git
+  https://github.com/jinwoo-kim-nhn/vue-boilerplate.git
 ```
 2. Run the installation from the internal repo directory.
 ```js

@@ -36,3 +36,8 @@ export default {
   }
 };
 </script>
+<style scoped>
+  button {
+    border-radius: 3px;
+  }
+</style>

@@ -19,9 +19,6 @@ export function sampleApp(options) {
   });
 }
 
-if (process.env.NODE_ENV === 'development') {
-  const el = document.createElement('div');
-  document.body.insertBefore(el, document.body.firstChild);
-
-  window.sampleApp = sampleApp({el});
+if (document.getElementById('hello-world-control')) {
+  sampleApp({el: document.getElementById('hello-world-control')});
 }

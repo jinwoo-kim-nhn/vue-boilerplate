@@ -8,7 +8,7 @@ export default {
       default: ''
     }
   },
-  
+
   render(h, context) {
     const message = `Hello!! ${context.props.message}!`;
 
